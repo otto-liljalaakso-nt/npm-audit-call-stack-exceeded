@@ -1,0 +1,21 @@
+{
+  "name": "@namespace/package-g",
+  "version": "1.0.0",
+  "description": "Package G",
+  "license": "Unlicense",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "author": "Novatron Oy",
+  "private": true,
+  "dependencies": {
+    "@namespace/package-b": "*",
+    "@namespace/package-c": "*",
+    "@namespace/package-h": "*",
+    "@namespace/package-i": "*",
+    "@namespace/package-k": "*",
+    "amazon-cognito-identity-js": "^4.3.3",
+    "aws-sdk": "2.952.0",
+    "lodash.keyby": "^4.6.0",
+    "p-retry": "^4.6.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "package-l",
+  "version": "1.0.0",
+  "license": "Unlicense",
+  "private": true,
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "dependencies": {
+    "aws-sdk": "2.952.0",
+    "cross-spawn": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "dotenv-expand": "^5.1.0"
+  },
+  "bin": "./lib/index.js"
+}

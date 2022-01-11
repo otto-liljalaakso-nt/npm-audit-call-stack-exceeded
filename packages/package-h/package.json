@@ -1,0 +1,13 @@
+{
+    "name": "@namespace/package-h",
+    "version": "0.0.1",
+    "description": "Package H",
+    "license": "Unlicense",
+    "main": "lib/index.js",
+    "typings": "lib/index.d.ts",
+    "author": "Novatron",
+    "private": true,
+    "devDependencies": {
+        "@namespace/package-k": "*"
+    }
+}

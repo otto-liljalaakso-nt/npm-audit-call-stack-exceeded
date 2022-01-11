@@ -1,0 +1,33 @@
+{
+  "name": "@namespace/package-i",
+  "version": "0.0.1",
+  "description": "Package I",
+  "license": "Unlicense",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "3.35.0",
+    "@aws-sdk/client-iot": "^3.35.0",
+    "@namespace/package-c": "*",
+    "@namespace/package-f": "*",
+    "@namespace/package-h": "*",
+    "@namespace/package-k": "*",
+    "ajv": "6.10.0",
+    "aws-sdk": "2.952.0",
+    "lodash.chunk": "^4.2.0",
+    "lodash.flatten": "^4.4.0",
+    "lodash.isempty": "^4.4.0",
+    "lodash.isequal": "^4.4.0",
+    "lodash.keyby": "^4.6.0",
+    "p-limit": "^3.1.0",
+    "striptags": "^3.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@namespace/package-e": "*",
+    "@namespace/package-j": "*",
+    "aws-sdk-client-mock": "*"
+  }
+}
