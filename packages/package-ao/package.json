@@ -1,0 +1,13 @@
+{
+  "name": "@testns/package-ao",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-aj": "*",
+    "pino": "^7.5.1"
+  },
+  "devDependencies": {
+    "@testns/package-as": "*"
+  }
+}

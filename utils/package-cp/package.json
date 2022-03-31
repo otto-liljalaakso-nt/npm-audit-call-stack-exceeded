@@ -1,0 +1,14 @@
+{
+  "name": "@testns-utils/package-cp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/cross-spawn": "^6.0.2",
+    "aws-sdk": "2.1001.0",
+    "cross-spawn": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "dotenv-expand": "^5.1.0",
+    "@testns/package-ao": "*"
+  },
+  "bin": "./lib/index.js"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@testns/package-as",
+  "version": "1.0.0",
+  "author": "Novatron Oy",
+  "private": true,
+  "devDependencies": {
+    "@testns/package-aj": "*"
+  }
+}

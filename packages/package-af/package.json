@@ -1,0 +1,15 @@
+{
+  "name": "@testns/package-af",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-as": "*",
+    "aws-sdk": "2.1001.0",
+    "p-retry": "^4.6.1"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*"
+  }
+}

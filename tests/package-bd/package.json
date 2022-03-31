@@ -1,0 +1,23 @@
+{
+  "name": "@testns-tests/package-bd",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@testns/package-am": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-ah": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-aj": "*",
+    "@testns/package-as": "*",
+    "xmlrpc": "^1.3.2",
+    "@testns-tests/package-bb": "*"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.20.0",
+    "@types/jest": "26.0.23",
+    "@types/json-schema": "^7.0.4",
+    "@testns-utils/package-cp": "*",
+    "typescript": "4.5.4"
+  }
+}

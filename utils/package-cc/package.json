@@ -1,0 +1,9 @@
+{
+  "name": "@testns-utils/package-cc",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "2.1001.0",
+    "meow": "^7.0.1"
+  }
+}

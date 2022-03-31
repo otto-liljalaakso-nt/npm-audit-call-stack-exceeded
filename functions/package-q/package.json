@@ -1,0 +1,12 @@
+{
+  "name": "@testns-functions/package-q",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.63",
+    "@testns/package-ao": "*",
+    "@testns/package-aj": "*",
+    "aws-sdk": "2.1001.0"
+  },
+  "author": "Novatron",
+  "private": true
+}

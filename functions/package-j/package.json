@@ -1,0 +1,15 @@
+{
+  "name": "@testns-functions/package-j",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-aq": "*",
+    "@testns/package-ai": "*",
+    "ajv": "^8.8.2",
+    "ajv-formats": "^2.1.1",
+    "flat": "5.0.2",
+    "lodash.uniq": "^4.5.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@testns/package-ag",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-aq": "*",
+    "ajv": "^8.8.2",
+    "ajv-formats": "^2.1.1"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*",
+    "@testns/package-as": "*"
+  }
+}

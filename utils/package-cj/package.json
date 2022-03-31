@@ -1,0 +1,10 @@
+{
+  "name": "@testns-utils/package-cj",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "aws-sdk": "2.1001.0",
+    "meow": "^9.0.0"
+  }
+}

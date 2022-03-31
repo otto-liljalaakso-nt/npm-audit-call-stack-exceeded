@@ -1,0 +1,14 @@
+{
+  "name": "@testns-tests/package-bb",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-am": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-ah": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-ai": "*",
+    "@playwright/test": "1.20.0"
+  }
+}

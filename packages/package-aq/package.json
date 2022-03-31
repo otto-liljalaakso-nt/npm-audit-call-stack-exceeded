@@ -1,0 +1,17 @@
+{
+  "name": "@testns/package-aq",
+  "version": "1.0.0",
+  "author": "Novatron Oy",
+  "private": true,
+  "dependencies": {
+    "ajv": "^8.8.2"
+  },
+  "devDependencies": {
+    "@testns/package-ar": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-aj": "*",
+    "@testns/package-as": "*",
+    "ajv-formats": "^2.1.1",
+    "jest-json-schema": "^6.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@testns-utils/package-ca",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ad": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-af": "*",
+    "@testns/package-ai": "*",
+    "@testns/package-aj": "*",
+    "@testns/package-as": "*",
+    "aws-sdk": "2.1001.0",
+    "luxon": "^2.0.0",
+    "meow": "^7.1.1"
+  },
+  "author": "Novatron",
+  "private": true
+}

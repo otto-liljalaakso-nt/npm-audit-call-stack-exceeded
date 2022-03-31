@@ -1,0 +1,10 @@
+{
+  "name": "@testns-utils/package-cb",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ab": "*",
+    "@testns/package-ao": "*"
+  }
+}

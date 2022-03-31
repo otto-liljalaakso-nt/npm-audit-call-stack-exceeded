@@ -1,0 +1,10 @@
+{
+  "name": "@testns-functions/package-e",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-ac": "*"
+  },
+  "author": "Novatron",
+  "private": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@testns/package-ai",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity": "3.35.0",
+    "@aws-sdk/client-iot": "^3.35.0",
+    "@testns/package-ab": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-aq": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-as": "*",
+    "aws-sdk": "2.1001.0",
+    "lodash.chunk": "^4.2.0",
+    "lodash.flatten": "^4.4.0",
+    "lodash.isempty": "^4.4.0",
+    "lodash.isequal": "^4.4.0",
+    "lodash.keyby": "^4.6.0",
+    "p-limit": "^3.1.0",
+    "striptags": "^3.2.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@testns/package-ag": "*",
+    "@testns/package-aj": "*",
+    "aws-sdk-client-mock": "*"
+  }
+}

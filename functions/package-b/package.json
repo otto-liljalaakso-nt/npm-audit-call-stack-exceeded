@@ -1,0 +1,14 @@
+{
+  "name": "@testns-functions/package-b",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-as": "*",
+    "aws-sdk": "2.1001.0"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*"
+  },
+  "author": "Novatron",
+  "private": true
+}

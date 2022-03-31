@@ -1,0 +1,12 @@
+{
+  "name": "@testns-utils/package-cf",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-am": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-as": "*"
+  }
+}

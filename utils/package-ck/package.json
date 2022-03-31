@@ -1,0 +1,19 @@
+{
+  "name": "@testns-utils/package-ck",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "aws-sdk": "2.1001.0",
+    "p-limit": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.30.0",
+    "@types/jest": "26.0.23",
+    "typescript": "4.5.4"
+  },
+  "scripts": {
+    "bundle": "ncc build . -o dist -s"
+  },
+  "author": "Novatron",
+  "private": true
+}

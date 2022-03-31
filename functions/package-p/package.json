@@ -1,0 +1,19 @@
+{
+  "name": "@testns-functions/package-p",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-ag": "*",
+    "@testns/package-aq": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-ai": "*",
+    "@testns/package-as": "*",
+    "lodash.flatten": "^4.4.0",
+    "lodash.isempty": "^4.4.0"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*"
+  }
+}

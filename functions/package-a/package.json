@@ -1,0 +1,11 @@
+{
+  "name": "@testns-functions/package-a",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "axios": "0.24.0",
+    "p-retry": "^4.6.1"
+  },
+  "author": "Novatron",
+  "private": true
+}

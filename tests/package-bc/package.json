@@ -1,0 +1,20 @@
+{
+  "name": "@testns-tests/package-bc",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-aa": "*",
+    "@testns/package-am": "*",
+    "@testns/package-an": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-ah": "*",
+    "@testns/package-ap": "*",
+    "@testns/package-ai": "*",
+    "@testns/package-aj": "*",
+    "@testns/package-ac": "*",
+    "@testns/package-as": "*",
+    "lodash.escaperegexp": "^4.1.2",
+    "lodash.keyby": "^4.6.0"
+  }
+}

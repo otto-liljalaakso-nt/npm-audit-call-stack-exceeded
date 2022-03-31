@@ -1,0 +1,8 @@
+{
+  "name": "@testns-utils/deploy",
+  "version": "1.0.0",
+  "private": true,
+  "optionalDependencies": {
+    "takomo": "3.35.2"
+  }
+}

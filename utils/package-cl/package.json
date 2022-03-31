@@ -1,0 +1,12 @@
+{
+  "name": "@testns-utils/package-cl",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "dotenv-expand": "^5.1.0",
+    "lodash.get": "^4.4.2",
+    "lodash.merge": "^4.6.2",
+    "meow": "^6.0.1"
+  }
+}

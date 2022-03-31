@@ -1,0 +1,18 @@
+{
+  "name": "@testns-functions/package-k",
+  "version": "0.0.1",
+  "dependencies": {
+    "@testns/package-ad": "*",
+    "@testns/package-ao": "*",
+    "@testns/package-aq": "*",
+    "@testns/package-ai": "*",
+    "@testns/package-as": "*",
+    "ajv": "^8.8.2",
+    "aws-sdk": "2.1001.0"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*"
+  },
+  "author": "Novatron",
+  "private": true
+}

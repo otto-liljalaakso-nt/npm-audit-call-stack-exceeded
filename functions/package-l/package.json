@@ -1,0 +1,25 @@
+{
+  "name": "@testns-functions/package-l",
+  "version": "0.0.1",
+  "author": "Novatron",
+  "private": true,
+  "dependencies": {
+    "@testns/package-ao": "*",
+    "@testns/package-af": "*",
+    "@testns/package-ag": "*",
+    "@testns/package-aq": "*",
+    "@testns/package-ai": "*",
+    "@testns/package-as": "*",
+    "lodash.get": "^4.4.2",
+    "lodash.groupby": "^4.6.0",
+    "lodash.isempty": "^4.4.0",
+    "papaparse": "^5.3.1",
+    "xml-escape": "^1.1.0"
+  },
+  "devDependencies": {
+    "@testns/package-aj": "*",
+    "ajv": "^8.8.2",
+    "ajv-formats": "^2.1.1",
+    "xml2js": "^0.4.23"
+  }
+}
