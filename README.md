@@ -31,6 +31,7 @@ npm ERR! Maximum call stack size exceeded
 
 npm ERR! A complete log of this run can be found in:
 npm ERR!     /home/otto/.npm/_logs/2022-03-31T14_27_52_652Z-debug-0.log```
+```
 
 ### Logs from a run
 
