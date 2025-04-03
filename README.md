@@ -9,8 +9,8 @@ npm audit fix --workspaces --include-workspace-root --force
 ### Usage
 
 1. Clone the repository
-2. Install dependencies: `$ npm install`
-3. Run audit: `$ npm audit fix --workspaces --include-workspace-root --force`
+2. Install dependencies: `npm install`
+3. Run audit: `npm audit fix --workspaces --include-workspace-root --force`
 
 #### Expected result
 Audit completes normally,
