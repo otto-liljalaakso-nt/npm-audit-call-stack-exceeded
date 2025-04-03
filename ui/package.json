@@ -25,7 +25,6 @@
     "@testns/package-an": "*",
     "@testns/package-ap": "*",
     "@testns/package-as": "*",
-    "@xsitemanage/manage3d": "^1.0.23",
     "axios": "0.24.0",
     "cesium": "1.82.1",
     "chonky": "2.3.0",
