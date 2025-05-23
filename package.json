@@ -80,10 +80,10 @@
     "npm": "11.2.0"
   },
   "workspaces": [
-    "functions/*",
-    "packages/*",
-    "tests/*",
+    "functions/package-a",
+    "packages/package-aa",
+    "tests/package-ba",
     "ui/",
-    "utils/*"
+    "utils/deploy"
   ]
 }
