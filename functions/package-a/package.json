@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "@testns/package-ao": "*",
-    "axios": "0.24.0",
+    "axios": "0.30.0",
     "p-retry": "^4.6.1"
   },
   "author": "Novatron",
