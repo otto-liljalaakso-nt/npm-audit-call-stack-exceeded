@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "@testns/package-ao": "*",
-    "aws-sdk": "2.1001.0",
+    "aws-sdk": "2.1692.0",
     "lodash.chunk": "^4.2.0",
     "lodash.isempty": "^4.4.0",
     "luxon": "^2.0.2",

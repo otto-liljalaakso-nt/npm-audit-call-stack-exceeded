@@ -20,6 +20,6 @@
     "@testns/package-aj": "*",
     "ajv": "^8.8.2",
     "ajv-formats": "^2.1.1",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.6.0"
   }
 }
