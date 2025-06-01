@@ -8,7 +8,7 @@
     "@testns/package-ai": "*",
     "@testns/package-aj": "*",
     "@testns/package-as": "*",
-    "aws-sdk": "2.1001.0",
+    "aws-sdk": "2.1692.0",
     "luxon": "^2.0.0",
     "meow": "^7.1.1"
   },

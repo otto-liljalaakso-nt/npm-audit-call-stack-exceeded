@@ -6,7 +6,7 @@
   "dependencies": {
     "@testns/package-ao": "*",
     "@testns/package-as": "*",
-    "aws-sdk": "2.1001.0",
+    "aws-sdk": "2.1692.0",
     "lodash.keyby": "^4.6.0"
   },
   "devDependencies": {

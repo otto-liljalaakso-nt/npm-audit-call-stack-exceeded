@@ -7,7 +7,7 @@
     "@testns/package-ao": "*",
     "@testns/package-aq": "*",
     "@testns/package-ai": "*",
-    "aws-sdk": "2.1001.0",
+    "aws-sdk": "2.1692.0",
     "p-retry": "^4.6.1"
   },
   "devDependencies": {
